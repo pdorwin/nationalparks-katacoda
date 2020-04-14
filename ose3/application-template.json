@@ -29,7 +29,7 @@
       "description": "Git source URI for application",
       "displayName": "Git source repository",
       "name": "GIT_URI",
-      "value": "https://github.com/openshift-roadshow/nationalparks-katacoda.git",
+      "value": "https://github.com/pdorwin/nationalparks-katacoda.git",
       "required": true
     },
     {
